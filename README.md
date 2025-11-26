@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FabianGray
-- 👀 I’m interested in Data science,analytics, Pyton and R
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on Data related projects
+- 👀 I’m interested in Web3 security and research, Pyton and R
+- 🌱 I’m currently learning Web3/smart contract Development 
+- 💞️ I’m looking to collaborate on web3 security and research related projects
 - 📫 How to reach me email: xaryhavy@gmail.com
 
 <!---
